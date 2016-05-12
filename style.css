@@ -1,0 +1,36 @@
+.square_1, .square_2, .square_3, .square_4, .square_5{
+    margin: auto;
+    position: relative;
+} 
+
+.square_1{
+    width: 200px;
+    height: 200px; 
+    background: red;
+    }
+.square_2{
+    width: 160px;
+    height: 160px; 
+    background: green;
+    top: 20px;
+}
+.square_3{
+    width: 120px;
+    height: 120px; 
+    background: yellow;
+    top: 20px;    
+}
+.square_4{
+    width: 80px;
+    height: 80px; 
+    background: blue;
+    top: 20px;    
+}
+.square_5{
+    width: 40px;
+    height: 40px; 
+    background: white;
+    top: 20px;    
+}
+
+    
